@@ -2,7 +2,9 @@
 
 ## Introduction 
 This dashboard was created for **Job Seekers, Job Transitioners, and Job Swappers** to solve a common problem: information about the data job market is scattered and hard to grasp.
+
 Using a *real-world dataset of 2024 data science job postings*, which includes details such as job titles, salary ranges, and geographic locations, this project consolidates market information into a single, interactive, and easy-to-navigate dashboard.
+
 The dashboard enables users to quickly explore current market trends, compensation patterns, and demand across roles and regions, helping them make informed career and salary decisions with confidence.
 
 ## Skills Showcased
