@@ -7,7 +7,7 @@
 * Using real-world 2024 data job postings, the dashboard provides a single-page, interactive view of job demand, salary distributions, and skill requirements across different roles and locations.
 
 ### Dashboard File
-You can find the file for the dashboard here: [`Data_Jobs_Dashboard_2.0.pbix`](Data_Jobs_Dashboard_2.0.pbix).  
+You can find the file for the dashboard here: [`Data_Jobs_Dashboard_2.0.pbix`](Data_Jobs_Dashboards2.0.pbix).  
 
 ## Skills Showcased
 
