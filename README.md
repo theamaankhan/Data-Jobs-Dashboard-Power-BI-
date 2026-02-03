@@ -8,6 +8,16 @@ These projects demonstrate my ability to:
 * Build scalable DAX calculations
 * Design intuitive dashboards for fast insight discovery
 
+## 📂 Dataset Used
+
+The dataset used for this project is hosted on Google Drive due to GitHub file size limitations.
+
+📊 **Dataset (Job Market Data – 2024):**  
+https://drive.google.com/file/d/1cogV0D-PU_YuKn_fOdGWhx91lhfCD_gD/view?usp=sharing
+
+> This dataset contains ~479,000 job-level records covering job titles, salaries, skills, and locations.
+
+
 ## 📁 Projects Overview
 ### 🔹 Data Jobs Dashboard — Version 1.0
 
@@ -73,3 +83,4 @@ Aspiring Data Analyst | Power BI | Data Visualization | Analytics
 
 📧 Email: amaankhanamaan8@gmail.com
 🔗 LinkedIn: www.linkedin.com/in/theamaan-khan
+
